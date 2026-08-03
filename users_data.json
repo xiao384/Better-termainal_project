@@ -2,16 +2,25 @@
     "users_name": [
         "root",
         "xiaoxiao",
-        "xiao"
+        "xiao",
+        "admin"
     ],
-    "users_password": [
-        "root",
-        " ",
-        "xiao"
+    "users_password_hash": [
+        "c4324aa518adbb9eab2bf0aad08440edc60f094d8d553a805b43988e974d24c1",
+        "b7e242d9415c9138178c868fbad826f9f8c92534ce2317a3539794bef5434b65",
+        "2ec0871df2621e1124ba6be27d67fb09f8fd59fa92cd61ffce4d7aaeffb188aa",
+        "1b7bb5b295b5ac4447e88d7c048c97002beac9211aedfbae339b5221c6dde02d"
+    ],
+    "users_password_salt": [
+        "6f232d079c03f096471da6a55cc97586",
+        "0b2de80531bd05c539aab3089854e11c",
+        "87dcff6af0a92577a523b229f6f1a8fb",
+        "9b323a05bb9813bc8bdf2be3911c9d27"
     ],
     "users_root": [
         "root",
         "root",
-        "users"
+        "users",
+        "root"
     ]
 }
